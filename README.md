@@ -1,6 +1,6 @@
-# development-environment-setup
-Development Environment Setup using Cursor, Claude, and Codex
 # Development Environment Setup
+
+Development Environment Setup using Cursor, Claude, and Codex
 
 ## Overview
 This project documents the process of setting up a development environment using Cursor IDE and integrating AI tools such as Claude and Codex. The goal was to understand how to configure the tools and get a basic workflow running.
@@ -43,6 +43,10 @@ This project documents the process of setting up a development environment using
 ### Path issues when cloning
 - Issue: Cursor attempted to use a path that did not exist
 - Solution: Switched to using the terminal to manually clone the repository
+
+### Git user configuration issue
+- Issue: Git initially detected an incorrect email address from the system
+- Solution: Updated the Git configuration to use my correct name and email
 
 ### Confusion with Cursor interface
 - Issue: Initially could not find the extensions panel or understand where to install tools
