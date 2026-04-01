@@ -1,69 +1,144 @@
-# Development Environment Setup
-
-Development Environment Setup using Cursor, Claude, and Codex
+# Development Environment Setup & B2B SaaS Research
 
 ## Overview
-This project documents the process of setting up a development environment using Cursor IDE and integrating AI tools such as Claude and Codex. The goal was to understand how to configure the tools and get a basic workflow running.
+
+This repository documents two key components:
+
+1. **Development Environment Setup** using Cursor IDE and AI tools
+2. **Research Project** on LinkedIn organic content strategy for B2B SaaS
+
+The goal of this project was to both:
+
+* Set up a modern AI-powered development workflow
+* Analyze high-quality content from leading B2B SaaS operators to extract actionable insights
 
 ---
 
-## Tools Installed
-- Cursor IDE
-- Claude Code extension
-- Codex extension
-- Git (installed during the process)
+## Tools Used
+
+* Cursor IDE
+* Claude Code (extension)
+* Codex (extension)
+* Git & GitHub
 
 ---
 
-## Steps Completed
+## Development Setup (Summary)
 
-1. Installed Cursor IDE
-2. Explored the interface and located the extensions panel
-3. Installed Claude Code and Codex extensions
-4. Created a public GitHub repository
-5. Attempted to clone the repository using Cursor
-6. Faced issues due to Git not being installed
-7. Installed Git for Windows
-8. Attempted cloning again and encountered path-related issues
-9. Used the terminal to manually run `git clone`
-10. Opened the repository folder in Cursor
+* Installed Cursor IDE
+* Configured AI extensions (Claude Code & Codex)
+* Set up Git and GitHub repository
+* Cloned repository and worked via terminal
+* Created and managed project structure
+* Committed and pushed changes throughout the process
 
 ---
 
-## Challenges and Solutions
+## Research Project: LinkedIn Strategy for B2B SaaS
 
-### Git not installed
-- Issue: Initial cloning failed because Git was not available in the environment
-- Solution: Installed Git for Windows and retried the process
+### Objective
 
-### Repository downloaded as ZIP
-- Issue: Cursor downloaded the repository as a ZIP instead of cloning it
-- Solution: After installing Git, reattempted the process using proper cloning
+Analyze how top B2B SaaS operators use LinkedIn to:
 
-### Path issues when cloning
-- Issue: Cursor attempted to use a path that did not exist
-- Solution: Switched to using the terminal to manually clone the repository
+* Build audience
+* Distribute ideas
+* Generate demand
+* Position their companies
 
-### Git user configuration issue
-- Issue: Git initially detected an incorrect email address from the system
-- Solution: Updated the Git configuration to use my correct name and email
+---
 
-### Confusion with Cursor interface
-- Issue: Initially could not find the extensions panel or understand where to install tools
-- Solution: Explored the interface and used shortcuts to locate the correct sections
+## Experts Analyzed
+
+* Chris Walker
+* Justin Welsh
+* Elena Verna
+* Guillaume Moubeche
+* Amanda Natividad
+* Kyle Poyar
+* Dave Gerhardt
+* Peep Laja
+* Ross Simmonds
+* Jason M. Lemkin
+
+---
+
+## Repository Structure
+
+```
+/research
+  /sources.md
+  /linkedin-posts/
+    - justin-welsh.md
+    - amanda-natividad.md
+    - ross-simmonds.md
+    - chris-walker.md
+    - dave-gerhardt.md
+    - peep-laja.md
+    - kyle-poyar.md
+    - elena-verna.md
+    - guillaume-moubeche.md
+    - jason-lemkin.md
+```
+
+---
+
+## Key Insights
+
+### 1. Opinionated Content Wins
+
+Top-performing posts take a clear stance instead of staying neutral. Strong opinions drive engagement and differentiation.
+
+### 2. Distribution > Creation
+
+Content success is not just about quality, but about how and where it is distributed. LinkedIn acts as a primary amplification channel.
+
+### 3. Zero-Click Content is Dominant
+
+High-performing posts deliver value directly within the platform without requiring external clicks.
+
+### 4. Data Builds Authority
+
+Posts that include original data, benchmarks, or research consistently stand out and get shared.
+
+### 5. AI is Reshaping Everything
+
+AI is changing:
+
+* How buyers discover products
+* How companies position themselves
+* How products are priced (e.g., usage-based, outcome-based)
+
+### 6. Simplicity + Clarity
+
+The best content is:
+
+* Easy to scan
+* Structured (lists, short paragraphs)
+* Focused on one core idea
 
 ---
 
 ## Key Learnings
 
-- Basic use of Git and repository cloning
-- Importance of having Git properly installed
-- How to troubleshoot setup issues
-- How development environments and tools connect
-- Using terminal as an alternative when UI fails
+* Consistency and clarity outperform complexity
+* Strong positioning is more important than volume
+* Great content combines insight + structure + distribution
+* B2B marketing is increasingly creator-driven
 
 ---
 
 ## Final Notes
 
-This process helped me better understand how development environments are set up in practice and how to troubleshoot issues independently.
+This project helped me understand:
+
+* How modern B2B SaaS marketing actually works in practice
+* How top operators think about growth, distribution, and positioning
+* How to structure and analyze content at a strategic level
+
+It also reinforced the importance of:
+
+* Working with real-world examples
+* Learning by doing
+* Iterating quickly and independently
+
+---
