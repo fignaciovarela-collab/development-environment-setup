@@ -1,69 +1,71 @@
-# Sources - LinkedIn Organic Content Strategy (B2B SaaS)
+# Sources
 
-Selection criteria:
-- Active practitioners in B2B SaaS or growth
-- Consistent LinkedIn content creators
-- High-signal, actionable insights (not generic advice)
-- Proven experience (operators, founders, or senior marketers)
+## Experts Analyzed
+
+### Chris Walker  
+Link: https://www.linkedin.com/in/chriswalker171/  
+Type: B2B Marketing Operator  
+Annotation: Known for demand generation and strong perspectives on modern go-to-market strategies.
 
 ---
 
-## Chris Walker
-- Platform: LinkedIn
-- Focus: Demand Generation
-- Why relevant: Pioneer of modern demand gen; uses LinkedIn to challenge traditional lead-gen thinking and educate the market
-- Link: https://www.linkedin.com/in/chriswalker171/
+### Justin Welsh  
+Link: https://www.linkedin.com/in/justinwelsh/  
+Type: LinkedIn Creator / Solopreneur  
+Annotation: Specialist in content systems and personal branding through consistent, high-performing LinkedIn posts.
 
-## Justin Welsh
-- Platform: LinkedIn
-- Focus: Content systems & personal branding
-- Why relevant: Known for building scalable content systems and clear, high-performing post formats
-- Link: https://www.linkedin.com/in/justinwelsh/
+---
 
-## Elena Verna
-- Platform: LinkedIn
-- Focus: Product-Led Growth (PLG)
-- Why relevant: Shares strategic, visual insights on growth and product-driven acquisition
-- Link: https://www.linkedin.com/in/elenaverna/
+### Elena Verna  
+Link: https://www.linkedin.com/in/elenaverna/  
+Type: Growth / Product-Led Growth Leader  
+Annotation: Focuses on monetization, retention, and PLG strategies with practical, tactical insights.
 
-## Guillaume Moubeche
-- Platform: LinkedIn
-- Focus: Building in public & founder-led content
-- Why relevant: Transparently shares company journey, metrics, and decisions to build trust and engagement
-- Link: https://www.linkedin.com/in/guillaume-moubeche-a026541b2/
+---
 
-## Amanda Natividad
-- Platform: LinkedIn
-- Focus: Content marketing & zero-click content
-- Why relevant: Strong advocate for delivering full value within posts without requiring clicks
-- Link: https://www.linkedin.com/in/amandanat/
+### Guillaume Moubeche  
+Link: https://www.linkedin.com/in/guillaume-moubeche-a026541b2/  
+Type: SaaS Founder  
+Annotation: Shares insights on outbound, AI, and scaling SaaS businesses with real-world examples.
 
-## Kyle Poyar
-- Platform: LinkedIn
-- Focus: SaaS metrics & benchmarks
-- Why relevant: Provides data-driven insights widely used by B2B operators and executives
-- Link: https://www.linkedin.com/in/kyle-poyar/
+---
 
-## Dave Gerhardt
-- Platform: LinkedIn
-- Focus: Brand-led growth & B2B marketing
-- Why relevant: Promotes modern B2B marketing through brand, community, and content
-- Link: https://www.linkedin.com/in/davegerhardt/
+### Amanda Natividad  
+Link: https://www.linkedin.com/in/amandanat/  
+Type: Content Marketing Leader  
+Annotation: Pioneer of zero-click content and high-quality content strategy focused on delivering value directly.
 
-## Peep Laja
-- Platform: LinkedIn
-- Focus: Conversion & positioning
-- Why relevant: Known for strong opinions and challenging conventional marketing thinking
-- Link: https://www.linkedin.com/in/peeplaja/
+---
 
-## Ross Simmonds
-- Platform: LinkedIn
-- Focus: Content distribution
-- Why relevant: Expert in repurposing and amplifying content across channels
-- Link: https://www.linkedin.com/in/rosssimmonds/
+### Kyle Poyar  
+Link: https://www.linkedin.com/in/kyle-poyar/  
+Type: SaaS Investor / Analyst  
+Annotation: Provides data-driven insights on SaaS growth, pricing models, and market trends.
 
-## Jason Lemkin
-- Platform: LinkedIn
-- Focus: SaaS growth & scaling
-- Why relevant: Shares consistent, experience-based insights for SaaS founders
-- Link: https://www.linkedin.com/in/jasonmlemkin/
+---
+
+### Dave Gerhardt  
+Link: https://www.linkedin.com/in/davegerhardt/  
+Type: B2B Marketing Leader  
+Annotation: Focuses on brand, storytelling, and modern demand generation in B2B SaaS.
+
+---
+
+### Peep Laja  
+Link: https://www.linkedin.com/in/peeplaja/  
+Type: Conversion / Growth Expert  
+Annotation: Known for strong opinions and research-backed insights on messaging, conversion, and differentiation.
+
+---
+
+### Ross Simmonds  
+Link: https://www.linkedin.com/in/rosssimmonds/  
+Type: Content Distribution Expert  
+Annotation: Specializes in content distribution strategies and maximizing reach across platforms.
+
+---
+
+### Jason M. Lemkin  
+Link: https://www.linkedin.com/in/jasonmlemkin/  
+Type: SaaS Founder / Investor  
+Annotation: Shares practical insights on scaling SaaS companies, growth, and market dynamics.
