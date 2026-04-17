@@ -34,7 +34,7 @@ Posts with original data and benchmarks perform better.
 
 Example:
 
-* (source: [Kyle Poyar](https://www.linkedin.com/posts/kyle-poyar_who-owns-growth-heres-the-latest-data-activity-7444735295796838400-QiS6), 2026)
+* "Half of CFOs sign off on purchases of $10K or less" (source: [Kyle Poyar](https://www.linkedin.com/posts/kyle-poyar_half-of-cfos-sign-off-on-purchases-of-10k-activity-7440713788980449280-KhVo), 2026)
 
 ---
 
@@ -56,7 +56,7 @@ Example:
 * Kyle Poyar -> data builds authority
 
 **My take:**
-Best content combines both. Opinion attracts attention, data builds trust.
+Best content combines both. Opinion captures attention in the feed, while data builds credibility and increases shares among decision-makers.
 
 ---
 
